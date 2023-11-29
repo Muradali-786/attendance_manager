@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "765191915920",
+    "project_id": "attendance-manager-8c1ea",
+    "storage_bucket": "attendance-manager-8c1ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765191915920:android:e95cc41e95abeb42eb4b15",
+        "android_client_info": {
+          "package_name": "com.techleer.attendance_manager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWsg1T9ORtQtO11brH3w7nn9mfjjKtots"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
